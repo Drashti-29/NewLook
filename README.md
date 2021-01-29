@@ -11,3 +11,5 @@ to run frontend
 cd pooja
 npm start
 
+to add the product go to 
+http://localhost:3000/products
